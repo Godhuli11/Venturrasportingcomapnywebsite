@@ -5,6 +5,10 @@
 
 
 }
+body{
+  width: 100%;
+  overflow-x: hidden;
+}
 .home{
   padding-left: 1190px;
 }
